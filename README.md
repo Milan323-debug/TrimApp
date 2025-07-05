@@ -6,8 +6,7 @@ A modern, mobile-friendly video trimming app built with Expo, React Native, and 
 <table>
   <tr>
     <td>
-      <img src="![WhatsApp Image 2025-07-05 at 17 25 42_63bccac0](https://github.com/user-attachments/assets/2cc845ca-4196-410d-b23f-b799a3c8c0e7)
-" width="200"/><br/>
+      <img src="![WhatsApp Image 2025-07-05 at 17 25 42_63bccac0](https://github.com/user-attachments/assets/2cc845ca-4196-410d-b23f-b799a3c8c0e7)" width="200"/><br/>
       <sub>Video Picker Screen</sub>
     </td>
     <td>
