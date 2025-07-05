@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "TrimApp",
+    "slug": "TrimApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.itachi212134.TrimApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "@config-plugins/ffmpeg-kit-react-native",
+        {
+          "package": "min"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "bdebc481-09c3-4be8-8398-2798fb6b76be"
+      }
+    },
+    "owner": "itachi212134"
+  }
+}
