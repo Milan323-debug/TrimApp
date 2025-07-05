@@ -6,19 +6,32 @@ A modern, mobile-friendly video trimming app built with Expo, React Native, and 
 <table>
   <tr>
     <td>
-      <img src="![WhatsApp Image 2025-07-05 at 17 25 42_63bccac0](https://github.com/user-attachments/assets/2cc845ca-4196-410d-b23f-b799a3c8c0e7)" width="200"/><br/>
+      <img
+        src="https://github.com/user-attachments/assets/2cc845ca-4196-410d-b23f-b799a3c8c0e7"
+        alt="Video Picker Screen"
+        width="200"
+      /><br/>
       <sub>Video Picker Screen</sub>
     </td>
     <td>
-      <img src="![WhatsApp Image 2025-07-05 at 17 25 42_721c540e](https://github.com/user-attachments/assets/b6d63480-57dd-48b6-8397-a14ede39f835)" width="200"/><br/>
+      <img
+        src="https://github.com/user-attachments/assets/b6d63480-57dd-48b6-8397-a14ede39f835"
+        alt="Video Trimmer Screen"
+        width="200"
+      /><br/>
       <sub>Video Trimmer Screen</sub>
     </td>
     <td>
-      <img src="![WhatsApp Image 2025-07-05 at 17 25 41_d7ac4d5e](https://github.com/user-attachments/assets/ede9d84a-4bb1-450f-bca1-a6b8dcc83a1a)" width="200"/><br/>
+      <img
+        src="https://github.com/user-attachments/assets/ede9d84a-4bb1-450f-bca1-a6b8dcc83a1a"
+        alt="Preview Screen"
+        width="200"
+      /><br/>
       <sub>Preview Screen</sub>
     </td>
   </tr>
 </table>
+
 
 ## Features
 
